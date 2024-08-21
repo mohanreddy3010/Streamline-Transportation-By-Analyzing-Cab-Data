@@ -1,0 +1,1 @@
+Analyzed pricing dynamics and comparing strategies between Uber and Lyft in the ride-sharing industry. Leveraging datasets from both companies, advanced data visualization tools were employed to uncover patterns and insights.
